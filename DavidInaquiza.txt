@@ -1,0 +1,5 @@
+Auto DevOps
+
+Automatically build, test, and deploy your application based on 
+a predefined CI/CD configuration. Learn more in the 
+Auto DevOps documentation. 
